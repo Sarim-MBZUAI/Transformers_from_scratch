@@ -94,4 +94,6 @@ To train the model, execute the `train.py` script:
 python train.py
 ```
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
