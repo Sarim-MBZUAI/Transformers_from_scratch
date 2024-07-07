@@ -1,5 +1,8 @@
 # Transformers_from_scratch
-This is the implementation from umar jamil youtube video on transformers : https://youtu.be/ISNdQcPhsts?si=lZu4eC-X1bBVxwjI
+
+
+This implementation follows the step-by-step guide provided in Umar Jamil's YouTube video:
+[Transformers from Scratch](https://youtu.be/ISNdQcPhsts?si=CY0aghcX4cmMlraI)
 
 
 
